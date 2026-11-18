@@ -1,8 +1,12 @@
 # OPERATING SYSTEM LAB CAPSTONE PROJECT
 **NAME** : **MONISHKA BAJAJ**
+
 **ROLL NO.** : **2401010161**
+
 **PROGRAM** :  **BTECH CSE**
+
 **COURSE** : **OPERATING SYSTEM LAB**
+
 **COURSE CODE** : **ENCS351**
 
 # OS Resource Management Simulator
