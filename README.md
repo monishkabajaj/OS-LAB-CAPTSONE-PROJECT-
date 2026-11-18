@@ -12,7 +12,7 @@
 # OS Resource Management Simulator
 
 ## Overview
-OSSim is an integrated, menu-driven Python and Bash application that simulates CPU scheduling, memory allocation, deadlock safety, and disk scheduling. It compares algorithms, exports CSV reports, and records activity in a log.
+OS Resource Management Simulator is an integrated, menu-driven Python and Bash application that simulates CPU scheduling, memory allocation, deadlock safety, and disk scheduling. It compares algorithms, exports CSV reports, and records activity in a log.
 
 ## Requirements
 - Python 3.9 or later
@@ -65,9 +65,6 @@ python -m unittest discover -s tests -v
 - Banker's algorithm checks whether the supplied state has at least one safe completion sequence. The example is a safe state.
 - Disk tracks are numbered 0 through 199. SCAN moves toward higher tracks first, reaches the disk end when there are requests in that direction, then reverses.
 - This is a simulator, not a kernel or real resource controller. It does not change host operating-system processes, RAM, or disks.
-
-## Repository contents
-`main.py`, `modules/`, `data/`, `scripts/`, `tests/`, `reports/`, `logs/`, `screenshots/`, and `PROJECT_REPORT.pdf`.
 
 ## Troubleshooting
 - If `python` is not recognized on Windows, install Python and enable “Add Python to PATH”, or try `py main.py`.
