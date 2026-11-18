@@ -1,0 +1,5 @@
+Request,Size,Block,Remaining capacity
+R1,212,B5,388
+R2,417,B2,83
+R3,112,B5,276
+R4,426,Not allocated,—

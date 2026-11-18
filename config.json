@@ -1,0 +1,6 @@
+{
+  "project": "OSSim",
+  "disk_size": 200,
+  "default_time_quantum": 2,
+  "sample_dataset": "data/sample_processes.csv"
+}

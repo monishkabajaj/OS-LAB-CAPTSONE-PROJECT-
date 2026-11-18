@@ -1,0 +1,23 @@
+2026-11-15 19:49:54,995 | INFO | Application started
+2026-11-15 19:50:11,807 | INFO | Report generated: cpu_algorithm_comparison.csv
+2026-11-15 19:50:11,808 | INFO | CPU algorithm comparison completed
+2026-11-15 19:52:57,714 | INFO | Report generated: fcfs_results.csv
+2026-11-15 19:52:57,720 | INFO | CPU scheduling executed: FCFS
+2026-11-15 19:55:09,353 | INFO | Report generated: sjf_results.csv
+2026-11-15 19:55:09,355 | INFO | CPU scheduling executed: SJF
+2026-11-15 19:55:31,817 | INFO | Report generated: round_robin_results.csv
+2026-11-15 19:55:31,817 | INFO | CPU scheduling executed: Round Robin
+2026-11-15 19:55:43,884 | INFO | Report generated: memory_allocation.csv
+2026-11-15 19:55:43,884 | INFO | Memory allocation executed: First Fit
+2026-11-15 19:55:49,728 | INFO | Report generated: memory_allocation.csv
+2026-11-15 19:55:49,728 | INFO | Memory allocation executed: Best Fit
+2026-11-15 19:55:54,388 | INFO | Report generated: memory_allocation.csv
+2026-11-15 19:55:54,388 | INFO | Memory allocation executed: Worst Fit
+2026-11-15 19:55:56,206 | INFO | Banker's safety check executed
+2026-11-15 19:56:09,662 | INFO | Report generated: disk_scheduling.csv
+2026-11-15 19:56:09,662 | INFO | Disk scheduling executed: FCFS
+2026-11-15 19:56:17,125 | INFO | Report generated: disk_scheduling.csv
+2026-11-15 19:56:17,126 | INFO | Disk scheduling executed: SSTF
+2026-11-15 19:56:22,239 | INFO | Report generated: disk_scheduling.csv
+2026-11-15 19:56:22,239 | INFO | Disk scheduling executed: SCAN
+2026-11-15 19:56:54,690 | INFO | Application closed
